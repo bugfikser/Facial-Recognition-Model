@@ -234,7 +234,7 @@ Hanan Bhat
 
 LinkedIn: https://www.linkedin.com/in/hanan-bhat-49a8a1269
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/bugfikser/
 
 📜 License
 
